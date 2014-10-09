@@ -1,2 +1,2 @@
-phpstorm-dictionaries
+PhpStorm-Dictionaries
 =====================
